@@ -3,11 +3,11 @@
 
 Aplicación aun en desarollo y por testear.
 Cuenta con las siguientes caracteristicas
-- **House**:
-- **User**: 
-- **Member**: 
-- **Article**: 
-- **Room**:
+- :house: **House** Create/Read/Update/Delete:
+- :smile: **User**: 
+- :two_men_holding_hands:	**Member**: 
+- :bell: **Article room** Create/Read/Update/Delete: 
+- :department_store: **Room** Create/Read/Update/Delete:
 
 
 sí quieres hacer feedback es recibido a este correo: [jorge.jacobo.francisco.306@gmail.com]
