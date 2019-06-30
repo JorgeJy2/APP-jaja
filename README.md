@@ -5,7 +5,7 @@ Aplicación aun en desarollo y por testear.
 Cuenta con las siguientes caracteristicas
 - :house: **House** Create/Read/Update/Delete:
 - :smile: **User**: Create [Google/Email] /Update
-- :two_men_holding_hands:	**Member**: 
+- :two_men_holding_hands:	**Member**: Create/Read/Update/Delete
 - :bell: **Article room** Create/Read/Update/Delete: 
 - :department_store: **Room** Create/Read/Update/Delete:
 
